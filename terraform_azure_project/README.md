@@ -42,7 +42,7 @@
         <li><strong>Other Supporting Resources:</strong> Such as public IPs and network interfaces.</li>
     </ul>
 
-<img src="azure-architecture-diagram" alt="Azure Infrastructure Architecture" style="max-width: 100%; height: auto; margin-top: 20px;" />
+<img src="azure-architecture-diagram.png" alt="Azure Infrastructure Architecture" style="max-width: 100%; height: auto; margin-top: 20px;" />
 
 </body>
 </html>
