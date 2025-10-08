@@ -13,4 +13,8 @@
 
 ### Architecture Diagram
 
+<p align="center">
+  <img src="azure-architecture-diagram.png" alt="Azure Architecture" width="500"/>
+</p>
+
 
