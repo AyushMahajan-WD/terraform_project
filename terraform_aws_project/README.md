@@ -32,7 +32,3 @@ The following AWS resources are created:
 - An S3 bucket is created for storage or future use (artifacts/state).
 
 ---
-
-
-```bash
-terraform init
