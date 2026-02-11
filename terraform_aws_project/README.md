@@ -4,7 +4,7 @@ This project provisions a basic AWS cloud infrastructure using Terraform. It set
 
 ---
 
-## 🚀 Infrastructure Components
+##  Infrastructure Components
 
 The following AWS resources are created:
 
@@ -21,7 +21,7 @@ The following AWS resources are created:
 
 ---
 
-## 🏗 Architecture Overview
+##  Architecture Overview
 
 - A custom VPC is created using a user-defined CIDR block.
 - A public subnet is carved from the VPC CIDR.
